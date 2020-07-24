@@ -303,6 +303,11 @@ select{
     font-size: x-large;
   }
 
+  #wavy h1{
+    font-size: 3em;
+    margin-bottom: 50px;
+  }
+
   .sec-container{
     padding-right:25px;
     padding-left:25px;
