@@ -1,7 +1,7 @@
 # Landing Page Template
 
 ## Preview
-![preview](https://kristofhracza.com/images/design_3.png)
+![preview](image/design_3.png)
 
 ## ***Built With***:
 - Javascript **(React, Vanilla and Jquery)**
